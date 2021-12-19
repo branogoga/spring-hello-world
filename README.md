@@ -2,7 +2,11 @@
 
 ## Run:
 
-`./mvnw spring-boot:run`
+`./build`
+`./start`
+
+## Usage:
+Open following page in browser:
 
 `localhost:8080/hello`
 
